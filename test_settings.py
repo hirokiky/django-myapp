@@ -1,5 +1,5 @@
 INSTALLED_APPS = (
-    'thapp',
+    'myapp',
 )
 DATABASES = {
     'default': {
